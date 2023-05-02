@@ -12,4 +12,16 @@ It sweep through many values of regularisation parameter $\lambda$.
 - various m files: supporting files for ATMcouldremovers.m (solvers)
 
 # Question
-Please contact me for any questions: y.guo at wsu dot edu dot au. 
+Please contact me for any questions. 
+
+# Paper
+- Yi Guo, Feng Li & Zhuo Wang (2023). **Laplacian convolutional representation for traffic time series imputation**. International Journal of Remote Sensing. [[DOI](DOI:10.1080/01431161.2023.2208710)][[Preprint](https://arxiv.org/abs/2210.01981)] [[Matlab code](https://github.com/yguo-wsu/clouldremoval)]
+
+Citation
+@article{doi:10.1080/01431161.2023.2208710,
+author = {Guo,Yi and Li,Feng and Wang,Zhuo},
+title = {Cloud Removal Using Scattering Model and Evaluation via Semi-realistic simulation},
+journal = {International Journal of Remote Sensing},
+year = {2023},
+doi = {10.1080/01431161.2023.2208710},
+}
