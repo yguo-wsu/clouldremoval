@@ -19,7 +19,7 @@ Please contact me for any questions.
 
 # Citation
 ```
-@article{doi:10.1080/01431161.2023.2208710,
+@article{gy2023cloud,
 author = {Guo,Yi and Li,Feng and Wang,Zhuo},
 title = {Cloud Removal Using Scattering Model and Evaluation via Semi-realistic simulation},
 journal = {International Journal of Remote Sensing},
